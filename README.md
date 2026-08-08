@@ -1,5 +1,5 @@
 🔗 **Live Demo:** [houseprice.abhijeet.dpdns.org](http://houseprice.abhijeet.dpdns.org)
-🔗 **Live Demo (Streamlit Cloud):** [Try the app here](YOUR_HOUSE_STREAMLIT_URL)
+🔗 **Live Demo (Streamlit Cloud):** [Try the app here](https://house-price-prediction-hezymyqll8l.streamlit.app/)
 
 \# House Price Prediction — Data Analyst Portfolio Project
 
